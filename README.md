@@ -1,6 +1,6 @@
 # Text To Speech Converter 🎤🗣️
 
-Welcome to the **Text To Speech Converter** project! This is a simple web application that allows you to convert written text into spoken words using your browser's built-in speech synthesis capabilities. Just enter your text, select a voice, and click "Listen" to hear the text read aloud. 🎉
+Welcome to the **Text To Speech Converter** project! This is a simple web application that allows you to convert written text into spoken words using your browser's built-in speech synthesis capabilities. 
 
 ## Table of Contents
 - [Features](#features)
