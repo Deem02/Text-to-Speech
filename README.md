@@ -84,7 +84,7 @@ This code sets up the necessary components for the text-to-speech functionality,
 
 Check out the video below to see the Text To Speech Converter in action: 🎥
 
-(https://github.com/user-attachments/assets/08d1881a-78a6-452a-b4ef-845141de423e)
+[Click to watch the video](https://github.com/user-attachments/assets/08d1881a-78a6-452a-b4ef-845141de423e)
 
 
 
