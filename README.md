@@ -1,7 +1,8 @@
 # Text To Speech Converter 🎤🗣️
 
+Welcome to the **Text To Speech Converter** project! This is a simple web application that allows you to convert written text into spoken words using your browser's built-in speech synthesis capabilities. Just enter your text, select a voice, and click "Listen" to hear the text read aloud. 🎉
+
 ## Table of Contents
-- [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -11,10 +12,6 @@
 - [Code Walkthrough](#code-walkthrough)
 - [Demo](#demo)
 
-
-## Introduction
-
-Welcome to the **Text To Speech Converter** project! This is a simple web application that allows you to convert written text into spoken words using your browser's built-in speech synthesis capabilities. Just enter your text, select a voice, and click "Listen" to hear the text read aloud. 🎉
 
 ## Features ✨
 
@@ -81,7 +78,7 @@ document.querySelector("button").addEventListener("click", () => {
 });
 ```
 
-This code sets up the necessary components for the text-to-speech functionality, including creating a `SpeechSynthesisUtterance` object, retrieving the available voices, populating the voice selection dropdown, and handling the button click event to trigger the speech synthesis. 🤖
+This code sets up the necessary components for the text-to-speech functionality, including creating a `SpeechSynthesisUtterance` object, retrieving the available voices, populating the voice selection dropdown, and handling the button click event to trigger the speech synthesis.
 
 ## Demo
 
