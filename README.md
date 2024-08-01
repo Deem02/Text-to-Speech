@@ -20,13 +20,13 @@ Welcome to the **Text To Speech Converter** project! This is a simple web applic
 - **Real-Time Speech**: Hear your text read out loud instantly as you interact with the application. 🔍
 - **Responsive Design**: The application is designed to work seamlessly on desktop and mobile devices. 📱
 
-## Getting Started
+## Getting Started  🚀
 
 ### Prerequisites
 
 To use the Text To Speech Converter, you will need a modern web browser that supports the Web Speech API. Most major browsers, such as Google Chrome, Mozilla Firefox, and Microsoft Edge, support this feature. 🌐
 
-### Installation 🚀
+### Installation
 
 1. Clone the repository:
    ```bash
@@ -84,5 +84,8 @@ This code sets up the necessary components for the text-to-speech functionality,
 
 Check out the video below to see the Text To Speech Converter in action: 🎥
 
-![Video Placeholder][]
+[https://github.com/user-attachments/assets/08d1881a-78a6-452a-b4ef-845141de423e]
+
+
+
 
